@@ -1,0 +1,6 @@
+[submodule "MicroApp1"]
+	path = MicroApp1
+	url = https://github.com/KanakamedalaSiri/MicroApp1
+[submodule "MicroApp2"]
+	path = MicroApp2
+	url = https://github.com/KanakamedalaSiri/MicroApp2
